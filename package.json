@@ -25,5 +25,8 @@
       "Firefox ESR",
       "not ie < 11"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2"
   }
 }
